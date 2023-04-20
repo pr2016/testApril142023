@@ -4,6 +4,6 @@ public class TreeTest2
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Tree Test 2 hi change 2 hilo change 6");
+		System.out.println("Tree Test 2 hi change 2 hilo change 8");
 	}
 }
